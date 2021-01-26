@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pittYb0xyjcnvqJvY7NYP9BfmYXNPf6cu1Q2IIkSMw4APqwvJxNwTbNpAwy0huKLPiK5CWMUk+0ZocgeaX2dNA==",
+  "success": true,
+  "projectFilePath": "C:\\DEV\\GRASAVOYE\\scan\\scan\\scan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladimir.rano\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\vladimir.rano\\.nuget\\packages\\nclam\\5.0.1\\nclam.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
