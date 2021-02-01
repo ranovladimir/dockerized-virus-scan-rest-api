@@ -41,10 +41,10 @@ namespace scan.Controllers
                 // var clam = new ClamClient(this._configuration["ClamAVServer:URL"],
                 //   Convert.ToInt32(this._configuration["ClamAVServer:Port"]));
 
-                //var clam = new ClamClient("localhost", 3310);
+                //var clam = new ClamClient("0.0.0.0", 3310);
 
                 // First parameter could be the container ip (if link via network) or container name.
-                var clam = new ClamClient("172.18.0.3", 3310);
+                var clam = new ClamClient("172.17.0.2", 3310);
 
 
                 var scanResult = await clam.SendAndScanFileAsync(fileBytes);
